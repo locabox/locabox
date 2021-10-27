@@ -1,6 +1,6 @@
 # NOSSOS COLABORADORES
 
-<table>
+<table align="center">
 <tr>  
   <td align="center">
       <a href="https://github.com/wizardigor">
@@ -38,6 +38,19 @@
             <br />
             <sub>
                 <b>Gabriele Almeida</b>
+            </sub>
+        </a>
+        <br />
+        :computer:
+    </td>
+  <td align="center">
+        <a href="https://github.com/vitoriall">
+            <kbd>
+                <img src="https://avatars3.githubusercontent.com/vitoriall?size=400" width="100px;" alt=""/>
+            </kbd>
+            <br />
+            <sub>
+                <b>Vitoria Almeida</b>
             </sub>
         </a>
         <br />
